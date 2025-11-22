@@ -1,4 +1,3 @@
-````markdown
 # 🌐 Graph Algorithms for Real-World Applications  
 
 ### _An analytical exploration of graph-based algorithmic strategies solving real-world problems through shortest paths, network optimization, and social graph analysis._
